@@ -2,7 +2,7 @@
 - 👋 Hi, I’m @Kaczycki
 - 👀 I’m back to coding since 08.2021, after +20 years break
 - 🌱 I’m currently learning python since 01.2022
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to change my career path to IT
 - 📫 How to reach me - Discord: MarCode#3580
 
 <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" fill="currentColor" class="bi bi-code" viewBox="0 0 16 16">
